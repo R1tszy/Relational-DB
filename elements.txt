@@ -1,1 +1,2 @@
 New element properties
+Fixed data formatting issues
